@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="australhonduras">australhonduras</string>
+    <string name="australia">Australia</string>
+    <string name="goal">Goal</string>
+    <string name="foul">Foul</string>
+    <string name="penalty_card">Penalty card</string>
+    <string name="honduras">Honduras</string>
+    <string name="goal_honduras">Goal</string>
+    <string name="foul_honduras">Foul</string>
+    <string name="penalty_card_honduras">Penalty card</string>
+    <string name="reset">Reset</string>
+</resources>
